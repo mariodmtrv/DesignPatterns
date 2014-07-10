@@ -19,5 +19,20 @@ Nothing to see here. Just my design patterns training stubs
       Defines a one-to-many dependency so that when a subject 
       changes state all its dependent observers are notified
     </p>
+    
+  </li>
+    <h3> Decorator </h3>
+    <p>
+      Assigns additional responsibility to objects dynamically.
+      A flexible alternative to subclassing for extending functionality
+    </p>
+  </li>
+  </li>
+    <h3> Factory </h3>
+    <p>
+       Defines an interface for creating an object, 
+       but lets the subclasses decide which class to instantiate.
+       Lets a class defer instantiation to subclasses
+    </p>
   </li>
 </ul>
