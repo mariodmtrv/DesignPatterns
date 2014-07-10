@@ -21,13 +21,14 @@ Nothing to see here. Just my design patterns training stubs
     </p>
     
   </li>
+  <li>
     <h3> Decorator </h3>
     <p>
       Assigns additional responsibility to objects dynamically.
       A flexible alternative to subclassing for extending functionality
     </p>
   </li>
-  </li>
+<li>
     <h3> Factory </h3>
     <p>
        Defines an interface for creating an object, 
