@@ -36,4 +36,11 @@ Nothing to see here. Just my design patterns training stubs
        Lets a class defer instantiation to subclasses
     </p>
   </li>
+<li>
+    <h3> Singleton </h3>
+    <p>
+       Ensures a class has only one instance and 
+       provides a global point of access to it
+    </p>
+</li>
 </ul>
