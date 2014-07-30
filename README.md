@@ -43,4 +43,10 @@ Nothing to see here. Just my design patterns training stubs
        provides a global point of access to it
     </p>
 </li>
+<li>
+    <h3> Command </h3>
+    <p>
+       Encapsulates a request as an object, thereby letting parameterization of other objects with different requests, queue or log requests, and support undoable operations
+    </p>
+</li>
 </ul>
