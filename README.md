@@ -49,4 +49,10 @@ Nothing to see here. Just my design patterns training stubs
        Encapsulates a request as an object, thereby letting parameterization of other objects with different requests, queue or log requests, and support undoable operations
     </p>
 </li>
+<li>
+    <h3> Adapter </h3>
+    <p>
+      Converts the interface of a class into another interface the client expects. Adapter lets classes work together that couldn't otherwise because of incopatible interfaces.
+    </p>
+</li>
 </ul>
