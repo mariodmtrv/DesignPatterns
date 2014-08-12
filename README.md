@@ -55,4 +55,11 @@ Nothing to see here. Just my design patterns training stubs
       Converts the interface of a class into another interface the client expects. Adapter lets classes work together that couldn't otherwise because of incopatible interfaces.
     </p>
 </li>
+<li>
+    <h3> Facade </h3>
+    <p>
+      Provides a unified interface to a set of interfaces in a system.
+      Defines a higher level interface to simplify system use
+    </p>
+</li>
 </ul>
