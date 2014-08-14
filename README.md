@@ -62,4 +62,11 @@ Nothing to see here. Just my design patterns training stubs
       Defines a higher level interface to simplify system use
     </p>
 </li>
+<li>
+    <h3> Template method </h3>
+    <p>
+      Define a skeleton of an algorithm in an operation deferring some steps to subclasses
+      Template method lets subclasses redefine certain steps of an algorithm without changing the algorithm structure
+    </p>
+</li>
 </ul>
