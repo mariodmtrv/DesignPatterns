@@ -69,4 +69,11 @@ Nothing to see here. Just my design patterns training stubs
       Template method lets subclasses redefine certain steps of an algorithm without changing the algorithm structure
     </p>
 </li>
+<li>
+    <h3> Iterator </h3>
+    <p>
+     Iterator provides a way to access the objects of an aggregate object
+     sequentially without exposing the underlying implementation
+    </p>
+</li>
 </ul>
