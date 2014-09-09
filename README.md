@@ -76,4 +76,11 @@ Nothing to see here. Just my design patterns training stubs
      sequentially without exposing the underlying implementation
     </p>
 </li>
+<li>
+    <h3> State </h3> 
+    <p>
+      Allows an object to alter its behaviour when its internal state changes.
+      The object will appear to change its class.
+    </p> 
+</li>
 </ul>
